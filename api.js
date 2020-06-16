@@ -1,1 +1,1 @@
-console.log("Log API route")
+console.log("Log API route");
