@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/son2909/test_CICD#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mocha": "^8.0.1",
+    "supertest": "^4.0.2"
   }
 }
